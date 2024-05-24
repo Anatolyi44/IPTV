@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTM3U
 #EXTINF:-1,.black
 http://iptv.ipmcenter.ru/play/a04b/index.m3u8
 #EXTINF:-1,.red
